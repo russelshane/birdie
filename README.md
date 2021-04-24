@@ -1,6 +1,6 @@
 # 🐦 Birdie (Twitter Clone)
 
-This application is a clone of Twitter. Developed using the following cool technologies:
+This web application is a clone of Twitter. Developed using the following cool technologies:
 
 - TypeScript
 - Next.js
