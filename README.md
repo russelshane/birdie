@@ -3,10 +3,10 @@
 This application is a clone of Twitter. Developed using the following cool technologies:
 
 - TypeScript
-- Next.js
+- React
 - GraphQL
 - PostgreSQL
-- Prism.
+- Prisma
 
 ## Disclaimer
 
