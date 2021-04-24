@@ -1,4 +1,4 @@
-# Birdie (Twitter Clone)
+# 🐦 Birdie (Twitter Clone)
 
 This application is a clone of Twitter. Developed using the following cool technologies:
 
