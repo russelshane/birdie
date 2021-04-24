@@ -1,4 +1,4 @@
-# 🐦 Birdie (Twitter Clone) | [Try It!](https://birdie.darsler.com "birdie.darsler.com")
+# 🐦 Birdie (Twitter Clone) | [Try It!](https://birdie.darsler.com "https://birdie.darsler.com")
 
 This web application is a clone of Twitter. Developed using the following (cool) technologies:
 
@@ -7,6 +7,7 @@ This web application is a clone of Twitter. Developed using the following (cool)
 - GraphQL
 - PostgreSQL
 - Prisma
+- Node.js
 
 ## Disclaimer
 
