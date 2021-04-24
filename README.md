@@ -1,6 +1,6 @@
 # 🐦 Birdie (Twitter Clone) | [Try It!](https://birdie.darsler.com "https://birdie.darsler.com")
 
-This web application is a clone of Twitter. Developed using the following (cool) technologies:
+This is a social media web application that is Twitter-like, excluding the algorithmic things. Developed using the following (cool) technologies:
 
 - TypeScript
 - React
