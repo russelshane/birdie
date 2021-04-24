@@ -1,4 +1,4 @@
-# 🐦 Birdie (Twitter Clone)
+# 🐦 Birdie (Twitter Clone) (https://birdie.darsler.com "Try it!")
 
 This web application is a clone of Twitter. Developed using the following (cool) technologies:
 
