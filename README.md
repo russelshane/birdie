@@ -7,6 +7,7 @@ This web application is a clone of Twitter. Developed using the following (cool)
 - GraphQL
 - PostgreSQL
 - Prisma
+- Node.js
 
 ## Disclaimer
 
