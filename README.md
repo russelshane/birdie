@@ -1,4 +1,4 @@
-# 🐦 Birdie (Twitter Clone) | [Try It!](https://birdie.darsler.com "https://birdie.darsler.com")
+# 🐦 Birdie (Twitter Clone) | [Try It!](https://birdie.netlify.app "https://birdie.netlify.app")
 
 This is a social media web application that is Twitter-like, excluding the algorithmic things. Developed using the following (cool) technologies:
 
